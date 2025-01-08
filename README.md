@@ -1,8 +1,8 @@
 ## Olá , eu sou o Daniel. 👋
 
 - 📚 Sou estudante de Engenharia de Telecomunicações do IFSC (Instituto Federal de Santa Catarina) campus São José, atualmente no quarto semestre 2024.2.
-- 📡 Tenho conhecimentos em C, Java, Matlab, Vhdl, e Python.
-- 🔒 Tenho interesse em área de gestão e identidade de acesso.
+- 📡 Possuo conhecimentos em C, Java, Matlab, Vhdl, e Python.
+- 🔒 Possuo interesse em áreas de gestão e identidade de acesso.
 - ♻️ Possuo repositórios com códigos e contúdos estudados em algumas disciplinas do curso, sinta-se a vontade para estudar a partir do que está disponibilizado.
 
 # Linguagens
